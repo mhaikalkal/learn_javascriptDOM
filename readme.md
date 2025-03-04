@@ -5,5 +5,6 @@ Just Relearning Javascript DOM, nothing special.
 3. Remove elements
 4. Add/Remove Class to elements
 5. Styling elements
-6. API
-7. Move to Framework
+6. Event
+7. API
+8. Move to Framework
