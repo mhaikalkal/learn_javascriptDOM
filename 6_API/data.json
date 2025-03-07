@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 28,
+    "email": "john@example.com",
+    "isActive": true,
+    "salary": 5000,
+    "skills": ["JavaScript", "React", "Node.js"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 34,
+    "email": "jane@example.com",
+    "isActive": false,
+    "salary": 7000,
+    "skills": ["Python", "Django", "Machine Learning"]
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "age": 24,
+    "email": "mike@example.com",
+    "isActive": true,
+    "salary": 4500,
+    "skills": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "age": 30,
+    "email": "emily@example.com",
+    "isActive": true,
+    "salary": 6500,
+    "skills": ["Java", "Spring Boot", "Microservices"]
+  },
+  {
+    "id": 5,
+    "name": "Robert Brown",
+    "age": 40,
+    "email": "robert@example.com",
+    "isActive": false,
+    "salary": 8000,
+    "skills": ["C#", ".NET", "Azure"]
+  }
+]
